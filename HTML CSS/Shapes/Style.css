@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+   
+}
+body{
+    background-color: antiquewhite;
+     /* display: flex; */
+}
+
+div{
+    height: 200px;
+    width: 200px;
+}
+main{
+    display: flex;
+}
+#box1{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+#box2{
+background-color: purple
+}
+#box3{
+    background-color: red;
+}
